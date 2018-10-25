@@ -3,32 +3,13 @@ package lista1;
 
 import java.util.Scanner;
 
-/**
- *
- * @author joao lindo
- */
 public class Circulo {
     
     public static void main(String[] args) {
         
         
     Scanner teclado = new Scanner(System.in);
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     System.out.println("Digite o raio do círculo:");
     
     float raio = teclado.nextFloat();
